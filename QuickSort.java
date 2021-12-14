@@ -1,4 +1,4 @@
-public void Quick(int l,int r) {
+public void QuickSort(int l,int r) {
 	if(r-l<=0)
 		return;
 	else {
